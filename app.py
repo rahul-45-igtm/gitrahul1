@@ -1,4 +1,11 @@
-num1=int(input("enter the first number:"))
-num2=int(input("enter the second number:"))
-print("the python code project is :")
-print(num1+num2)
+class Calculater{
+    public int add(int a,int b){
+      int c=a+b;
+   System.out.println(c);
+   return c;
+ }
+ public static void main (String[]args){
+    Calculater c=new Calculater();
+       c.add(6,9);
+ }
+}
