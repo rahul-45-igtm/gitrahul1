@@ -1,2 +1,2 @@
-This is Product file
-price = 1000
+This is product file
+price=8000
